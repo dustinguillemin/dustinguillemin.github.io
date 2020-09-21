@@ -1,4 +1,4 @@
-# dsutinguillemin.github.io
+# dustinguillemin.github.io
 Dustin Guillemin Creative Portfolio
 ** The below is copy and pasted from the original README.txt **
 
