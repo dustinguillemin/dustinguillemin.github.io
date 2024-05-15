@@ -334,7 +334,7 @@ body::-webkit-scrollbar-thumb{
 	left: 0px;
 	right: 0px;
 	height: 50px;
-	background-color: #fff;
+	background-color: #000;
 	z-index: 15;
 	display: none;
 }
