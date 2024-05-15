@@ -1125,7 +1125,7 @@ body::-webkit-scrollbar-thumb{
 	font-family: var(--font-inter);
 	font-weight: 500;
 	font-size: 20px;
-	color: rgba(19,15,73,.5);
+	color: var(--blue-color);
 	display: inline-block;
 	margin-bottom: 15px;
 }
