@@ -1049,7 +1049,7 @@ body::-webkit-scrollbar-thumb{
 	width: auto;
 }
 .elisc_tm_service_title a{
-	color: var(--dark-color);
+	color: var(--blue-color);
 	font-weight: 600;
 	font-family: var(--font-inter);
 	display: inline-block;
