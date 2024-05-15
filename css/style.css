@@ -365,7 +365,7 @@ body::-webkit-scrollbar-thumb{
 }
 .elisc_tm_topbar .logo .text{
 	text-decoration: none;
-	color: #000;
+	color: #fff;
 	text-transform: uppercase;
 	font-family: "Poppins";
 	font-size: 28px;
@@ -375,6 +375,7 @@ body::-webkit-scrollbar-thumb{
 }
 .elisc_tm_topbar .hamburger{
 	padding: 0px;
+	color: #fff;
 }
 .elisc_tm_topbar .hamburger-inner, 
 .elisc_tm_topbar .hamburger-inner:after, 
